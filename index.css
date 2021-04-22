@@ -55,11 +55,12 @@ button
     color: #565656;
     /* background: rgba(230,241,248,.9); */
     padding:10px;
-    /* border-top-left-radius: 30%;
-    border-bottom-left-radius: 30%;
-    border-top-right-radius: 30%;
-    border-bottom-right-radius: 30%; */
-    border-radius: 20%;
+     border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    outline:none;
+    border:none;
 
 }
 button:hover{
